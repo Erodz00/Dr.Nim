@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Timer;
 /*
- * Created by Enrique Rodriguez @Nrek on Codeforces
+ * Created by Enrique Rodriguez, Contact at erodz2000@gmail.com
  */
 public class DrNim {
 
